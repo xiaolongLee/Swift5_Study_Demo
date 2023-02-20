@@ -2,5 +2,29 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ld/Desktop/Swift%20Study/Swift5_Study_Demo/1.4%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%85%B3%E9%94%AE%E5%AD%97.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=85&amp;EndingColumnNumber=11&amp;EndingLineNumber=3&amp;StartingColumnNumber=5&amp;StartingLineNumber=3&amp;Timestamp=698557825.380445"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ld/Desktop/Swift%20Study/Swift5_Study_Demo/1.4%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%85%B3%E9%94%AE%E5%AD%97.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=113&amp;EndingColumnNumber=11&amp;EndingLineNumber=5&amp;StartingColumnNumber=5&amp;StartingLineNumber=5&amp;Timestamp=698557825.3806289"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ld/Desktop/Swift%20Study/Swift5_Study_Demo/1.4%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%85%B3%E9%94%AE%E5%AD%97.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=169&amp;EndingColumnNumber=12&amp;EndingLineNumber=7&amp;StartingColumnNumber=9&amp;StartingLineNumber=7&amp;Timestamp=698557825.380754"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ld/Desktop/Swift%20Study/Swift5_Study_Demo/1.4%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%85%B3%E9%94%AE%E5%AD%97.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=227&amp;EndingColumnNumber=0&amp;EndingLineNumber=11&amp;StartingColumnNumber=15&amp;StartingLineNumber=10&amp;Timestamp=698557825.380879"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ld/Desktop/Swift%20Study/Swift5_Study_Demo/1.4%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%85%B3%E9%94%AE%E5%AD%97.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=260&amp;EndingColumnNumber=0&amp;EndingLineNumber=14&amp;StartingColumnNumber=12&amp;StartingLineNumber=13&amp;Timestamp=698557825.381011"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ld/Desktop/Swift%20Study/Swift5_Study_Demo/1.4%E6%A0%87%E8%AF%86%E7%AC%A6%E5%92%8C%E5%85%B3%E9%94%AE%E5%AD%97.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=267&amp;EndingColumnNumber=0&amp;EndingLineNumber=17&amp;StartingColumnNumber=1&amp;StartingLineNumber=16&amp;Timestamp=698557825.381155"
+         selectedRepresentationIndex = "0">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
